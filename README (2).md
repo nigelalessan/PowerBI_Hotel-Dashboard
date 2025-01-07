@@ -49,7 +49,7 @@ Terdapat title pada dashboard untuk menunjukkan garis besar mengenai dashboard y
 
 Filter diatas merupakan filter bulan dan minggu, nantinya data yang kita inginkan bisa diatur berdasarkan bulan dan minggu. Dalam filter tersebut hanya terdapat 3 bulan saja di tahun 2022, yaitu Mei, Juni, Juli dan untuk minggu hanya dari minggu 19 sampai minggu ke 31, karena data hanya sebatas tanggal tersebut saja.
 
-- (<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/bb8c8936784dc60229f81c9a9d03ac5d97d84db9/Power-BI%20Images/KPI.jpg" height="100px">)
+- (<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/bb8c8936784dc60229f81c9a9d03ac5d97d84db9/Power-BI%20Images/KPI.jpg" width="80px">)
 
 Filter diatas merupakan filter berdasarkan kota (Filter by City), filtet berdasarkan kategori ruangan (Filter by Room Categories), filter berdasarkan nama properti (Filter by Property Names). Data akan dapat difilter berdasarkan filter yang tersedia tersebut.
 
