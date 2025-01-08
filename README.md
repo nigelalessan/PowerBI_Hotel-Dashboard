@@ -73,7 +73,7 @@ Visualisasi Donut diatas merupakan mengukur metric presentase pendapatan berdasa
 
 - ###  RevPAR by Month and Week
 
-<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ef9f50fc092645eb8dcfda7173c371e6f4a04778/Power-BI%20Images/RevPAR%20by%20Month%20and%20Week.jpg" width="200px">
+<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ef9f50fc092645eb8dcfda7173c371e6f4a04778/Power-BI%20Images/RevPAR%20by%20Month%20and%20Week.jpg" width="300px">
 
 Visualisasi Line Chart diatas merupakan RevPAR by Month and Week, jadi pendapatan yang diperoleh dari kamar yang tersedia berdasarkan bulan dan minggu. Terdapat juga ADR dan Occupancy % sebagain elemen pendukung
 
