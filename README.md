@@ -108,4 +108,4 @@ Visualisasi Line and Stacked Column Chart diatas merupakan visualisasi dari peng
 
     | Bangalore|Hyderabad|MumbaI|Delhi|
     |:--:|:--:|:--:|:--:|
-    |![image]|![image]|![image]|![image]|          
+    |<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/cb4cc05793ec974f1134e83687d10fe2c6eb739e/Power-BI%20Images/Bangalore_AvgRating.jpg" width="200px">|<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/cb4cc05793ec974f1134e83687d10fe2c6eb739e/Power-BI%20Images/Hyderabad_AvgRating.jpg" width="200px">|<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/cb4cc05793ec974f1134e83687d10fe2c6eb739e/Power-BI%20Images/Mumbai_AvgRating.jpg" width="200px">|<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/cb4cc05793ec974f1134e83687d10fe2c6eb739e/Power-BI%20Images/Delhi_AvgRating.jpg" width="200px">|          
