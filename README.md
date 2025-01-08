@@ -94,13 +94,3 @@ Visualisasi Tabel diatas menampilkan data lengkap dari hotel-hotel Atliq yang te
 <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ef9f50fc092645eb8dcfda7173c371e6f4a04778/Power-BI%20Images/Realization%20and%20ADR%20by%20Platform.jpg">
 
 Visualisasi Line and Stacked Column Chart diatas merupakan visualisasi dari pengukuran Realization % yaitu persentase checked out sukses dari semua booking yang terjadi dan ADR yang merupakan rasio pendapatan dari jumlah kamar yang telah di booking atau sudah terjual yang mengukur rata-rata pendapatan dari ruangan yang telah terjual pada periode tertentu.
-
- ## :page_facing_up: Reports
-
-- Berdasarkan visulalisasi donut pada dashboard dibawah ini pendapatan yang diperoleh berdasarkan kategori kamar masih didominasi oleh kategori luxury. Pada bulan Mei dengan 61.6%, kemudian bulan Juni dengan 61.5%, kemudian bulan Juli dengan 61.77%.
-
-     | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="400px">  | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="400px">  |
-    | Content Cell  | Content Cell  |
-
-
-- 
