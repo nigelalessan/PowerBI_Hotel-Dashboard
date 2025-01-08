@@ -101,7 +101,7 @@ Visualisasi Line and Stacked Column Chart diatas merupakan visualisasi dari peng
 
     | May           | June          | July          |
     | :-----------: | :-----------: | :-----------: |
-    |    ![image]   |  ![image]     |  ![image]     |
+    |  <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ff107f6dbb14e9b0b84db2357dd6872933a687ae/Power-BI%20Images/May_RevByCat.jpg"> width="200px" |  <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ff107f6dbb14e9b0b84db2357dd6872933a687ae/Power-BI%20Images/Jun_RevByCat.jpg"> width="200px"     |  <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ff107f6dbb14e9b0b84db2357dd6872933a687ae/Power-BI%20Images/Jul_RevByCat.jpg"> width="200px"      |
     
 
 - Berdasarkan visualisasi table pada dashboard dibawah ini, Bangalore memiliki rata-rata rating rendah dari pada kota lain dengan rata-rata 3.4 diikuti dengan Hyderabad dan Mumbai yang sama-sama memiliki rata-rata rating sebesar 3.7, dan yang mendudukin peringkat pertama adalah Delhi dengan rata-rata 3.8.
