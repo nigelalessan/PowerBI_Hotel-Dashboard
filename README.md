@@ -99,9 +99,7 @@ Visualisasi Line and Stacked Column Chart diatas merupakan visualisasi dari peng
 
 - Berdasarkan visulalisasi donut pada dashboard dibawah ini pendapatan yang diperoleh berdasarkan kategori kamar masih didominasi oleh kategori luxury. Pada bulan Mei dengan 61.6%, kemudian bulan Juni dengan 61.5%, kemudian bulan Juli dengan 61.77%.
 
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="100px">  | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="100px">  |
+     | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="400px">  | <img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/e485566fb1dcc6a4a9f69058f2adba5aa74c65d4/Power-BI%20Images/Revenue%20Category.jpg" width="400px">  |
     | Content Cell  | Content Cell  |
 
 
