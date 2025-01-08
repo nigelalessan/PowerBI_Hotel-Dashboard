@@ -67,7 +67,7 @@ Kumpulan visualisasi kartu diatas merupakan KPI yang terdiri dari Revenue, RevPA
 
 - ### Revenue % by Category
 
-<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ef9f50fc092645eb8dcfda7173c371e6f4a04778/Power-BI%20Images/Revenue%20Category.jpg" width="100px">
+<img src="https://github.com/nigelalessan/PowerBI_Hotel-Dashboard/blob/ef9f50fc092645eb8dcfda7173c371e6f4a04778/Power-BI%20Images/Revenue%20Category.jpg" width="300px">
 
 Visualisasi Donut diatas merupakan mengukur metric presentase pendapatan berdasarkan kategori kamar yang di booking.
 
