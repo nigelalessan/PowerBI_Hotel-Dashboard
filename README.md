@@ -2,6 +2,8 @@
 # Power BI - Hotel Dashboard Project
 
 ## :scroll: Overview
+Data Source : https://codebasics.io/
+
 
 Project ini mengeksplorasi data mengenai Atliq Hotel di India untuk memberikan wawasan, terutama pada sektor pendapatan. Dengan memperoleh wawasan berdasarkan data tersebut diharapkan dapat membantu dalam membuat keputusan strategis yang berguna dalam meningkatkan kualitas dari akomodasi tersebut terutama pada sektor pendapatan.
 
